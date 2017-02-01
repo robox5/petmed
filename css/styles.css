@@ -1,0 +1,13 @@
+@charset "utf-8";
+body {
+	padding-top: 70px;
+	padding-bottom: 70px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+footer {
+	padding-top: 2em;
+	padding-bottom: 2em;
+	border-top: 1px solid #DDDDDD;
+}
